@@ -1,0 +1,13 @@
+com.example.businessapp-jetified-window-java-1.0.0-beta04-0 /Users/ayub/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.businessapp-core-1.6.0-1 /Users/ayub/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.businessapp-jetified-annotation-experimental-1.1.0-2 /Users/ayub/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.businessapp-jetified-window-1.0.0-beta04-3 /Users/ayub/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.businessapp-debug-4 /Users/ayub/Documents/GitHub/garbage/android/app/src/debug/res
+com.example.businessapp-main-5 /Users/ayub/Documents/GitHub/garbage/android/app/src/main/res
+com.example.businessapp-pngs-6 /Users/ayub/Documents/GitHub/garbage/build/app/generated/res/pngs/debug
+com.example.businessapp-resValues-7 /Users/ayub/Documents/GitHub/garbage/build/app/generated/res/resValues/debug
+com.example.businessapp-rs-8 /Users/ayub/Documents/GitHub/garbage/build/app/generated/res/rs/debug
+com.example.businessapp-mergeDebugResources-9 /Users/ayub/Documents/GitHub/garbage/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.businessapp-mergeDebugResources-10 /Users/ayub/Documents/GitHub/garbage/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.businessapp-merged_res-11 /Users/ayub/Documents/GitHub/garbage/build/app/intermediates/merged_res/debug
+com.example.businessapp-packaged_res-12 /Users/ayub/Documents/GitHub/garbage/build/path_provider_android/intermediates/packaged_res/debug
