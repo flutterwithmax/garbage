@@ -36,12 +36,13 @@ class _TabsScreenState extends State<TabsScreen> {
       drawer: const MainDrawer(),
       bottomNavigationBar: bottomNavigationBar(),
       body: Container(
-        decoration: const BoxDecoration(
-          image: DecorationImage(
-            image: AssetImage('assets/images/bg.png'),
-            fit: BoxFit.cover,
-          ),
-        ),
+        color: Colors.red,
+        // decoration: const BoxDecoration(
+        //   // image: DecorationImage(
+        //   //   image: AssetImage('assets/images/bg.png'),
+        //   //   fit: BoxFit.cover,
+        //   // ),
+        // ),
         child: Column(
           children: const [
             SearchPanel(),
